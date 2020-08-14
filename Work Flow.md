@@ -75,7 +75,7 @@ But here are some of the codes you might need to use:
 
 -- git branch "your branch name" -- # create a new branch that represent your work
 
--- git chechout "your branch name" -- # switch to your own branch
+-- git checkout "your branch name" -- # switch to your own branch
 
 -- git add . -- # . means all in git codes, this add in all the changes to the git. You can also substitute . with specific file names
 
