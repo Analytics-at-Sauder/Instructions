@@ -12,6 +12,7 @@ Make sure that your project follows the instruction of the template so all the p
 Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
 
 ![](images/terminal.png)
+
 Change the working directory to the folder where your Notebook is located by typing `cd folder_name` and hitting 'Enter'. `cd` stands for 'change directory, and 'folder_name' would be different depending on where you put your Jupyter Notebook.
 
 ![](images/cd.png")
@@ -20,7 +21,7 @@ Save your Jupyter Notebook as a Markdown file (and put any output images in a su
 
 ![](images/nbconvert.png)
 
-### Step 3 : Cut and Paste the Ouputs from Step 2 into the Analytics-at-Sauder.github.io directory
+### Step 3 : Cut and Paste the Ouputs from Step 2 into the 'Analytics-at-Sauder.github.io' directory
 
 ### Step 4 : Integrate the rmd with the existing project
 
