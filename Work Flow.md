@@ -15,7 +15,7 @@ Once you finished editing you Jupyter Notebook, save it as a Markdown file using
 
 Change the working directory to the folder where your Notebook is located by typing `cd folder_name` and hitting 'Enter'. `cd` stands for 'change directory, and 'folder_name' would be different depending on where you put your Jupyter Notebook.
 
-![](image/cd.png)
+![](image/change_directory.png)
 
 Save your Jupyter Notebook as a Markdown file (and put any output images in a sub-folder) by typing `jupyter nbconver --to markdown notebook_name.ipynb` and hitting 'Enter'. Again, 'notebook_name' would be different depending on how you named your Jupyter Notebook
 
