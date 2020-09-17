@@ -11,15 +11,15 @@ Make sure that your project follows the instruction of the template so all the p
 
 Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
 
-![](images/terminal.png)
+![](image/terminal.png)
 
 Change the working directory to the folder where your Notebook is located by typing `cd folder_name` and hitting 'Enter'. `cd` stands for 'change directory, and 'folder_name' would be different depending on where you put your Jupyter Notebook.
 
-![](images/cd.png")
+![](image/cd.png")
 
 Save your Jupyter Notebook as a Markdown file (and put any output images in a sub-folder) by typing `jupyter nbconver --to markdown notebook_name.ipynb` and hitting 'Enter'. Again, 'notebook_name' would be different depending on how you named your Jupyter Notebook
 
-![](images/nbconvert.png)
+![](image/nbconvert.png)
 
 ### Step 3 : Cut and Paste the Ouputs from Step 2 into the 'Analytics-at-Sauder.github.io' directory
 
