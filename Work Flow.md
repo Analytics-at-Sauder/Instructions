@@ -7,23 +7,20 @@ Our project follows the same template where can be find at https://github.com/An
 
 Make sure that your project follows the instruction of the template so all the projects will have a similar format and will look nice and clean
 
-### Step 2 : Download the jupitor notebook as markdown
+### Step 2 : Download your Jupyter Notebook as a Markdown file
 
-After you are done with you project, you need to transfer it into the md format. Fortunately, the jupytor system can automatically download it for you in the file tab.
+Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
 
-<img src="image/md.png">
+![](images/terminal.png)
+Change the working directory to the folder where your Notebook is located by typing `cd folder_name` and hitting 'Enter'. `cd` stands for 'change directory, and 'folder_name' would be different depending on where you put your Jupyter Notebook.
 
-### Step 3 : Create the rmd file with rstudio
+![](images/cd.png")
 
-This step is a little bit of hack. The md file will be download as a zip. Simply unzip the folder and copy paste all the content(you can open the md file with visual studio which can be find [here](https://code.visualstudio.com/)).
+Save your Jupyter Notebook as a Markdown file (and put any output images in a sub-folder) by typing `jupyter nbconver --to markdown notebook_name.ipynb` and hitting 'Enter'. Again, 'notebook_name' would be different depending on how you named your Jupyter Notebook
 
-Then open a new markdown file in rstudio.
+![](images/nbconvert.png)
 
-<img src="image/rmd.png">
-
-Edit your markdown file so it is ready for creating the website.
-
-<img src="image/rmd_format.png">
+### Step 3 : Cut and Paste the Ouputs from Step 2 into the Analytics-at-Sauder.github.io directory
 
 ### Step 4 : Integrate the rmd with the existing project
 
