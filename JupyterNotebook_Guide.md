@@ -9,6 +9,10 @@ In order to open the '.ipynb' file which is the jupytor notebook file, first you
 After you sucessfully install the app on your device, you will find several apps available for you. What you want to open is the jupytor notebook app.
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img src="image/open_1.png">
 <br/>
 <br/>
