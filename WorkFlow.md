@@ -1,5 +1,5 @@
 
-## How to create a new project?
+# How to create a new project?
 
 ### Step 1: Download the [Notebook Template](https://github.com/Master-of-Business-Analytics/Notebooks_and_Data/blob/master/JupyterNotebook_Template.ipynb)
 
@@ -68,31 +68,32 @@ You can use - git push to push the changes back to online repo. The instruction 
 
 But here are some of the codes you might need to use:
 
--- git status -- # to check the changes in the directory
+`git status` to check the changes in the directory
 
--- git branch "your branch name" -- # create a new branch that represent your work
+`git branch "your branch name"` -- # create a new branch that represent your work
 
--- git checkout "your branch name" -- # switch to your own branch
+`git checkout "your branch name` -- # switch to your own branch
 
--- git add . -- # . means all in git codes, this add in all the changes to the git. You can also substitute . with specific file names
+`git add .` means all in git codes, this add in all the changes to the git. You can also substitute . with specific file names
 
--- git commit -m"the message" -- # this allow you to describe what changes you made with the file
+`git commit -m "the message"` this allow you to describe what changes you made with the file
 
--- git push origin master/ git push origin "your branch name" -- # push all the changes to master branch/ your own branch
+`git push origin "your branch name"` push all the changes to master branch/ your own branch
 
-## How to manage the project?
+# How to manage the project?
 
 ### Part 1 : Project Tab
 
-You can go to the project tab in github and create new project use "new project" button to create a new project.
+- You can go to the project tab in github and create new project use "new project" button to create a new project.
 
-<img src="image/new_project.png">
+  <img src="image/new_project.png">
 
-Then you can go into the specific project and create task card to keep trach of all the tasks. Go try it yourself you will find how to use it yourself.
+- Then you can go into the specific project and create task card to keep trach of all the tasks. Go try it yourself you will find how to use it yourself.
 
-<img src="image/add_cards.png">
+  <img src="image/add_cards.png">
 
 ### Part 2 : Meeting Minutes
 
-For the meeting minutes, you can record it with the new issue feature in the github.
-<img src="image/issue.png">
+- For the meeting minutes, you can record it with the new issue feature in the github.
+
+  <img src="image/issue.png">
