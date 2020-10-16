@@ -10,9 +10,6 @@ After you sucessfully install the app on your device, you will find several apps
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 <img src="image/open_1.png">
 <br/>
 <br/>
