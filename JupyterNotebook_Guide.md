@@ -9,7 +9,7 @@ In order to open the '.ipynb' file which is the jupytor notebook file, first you
 
   <img src="image/open_1.png">
 
-- Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
+  Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
 
 ## Additional help for people who are not familiar with git :Download the jupytor notebook from Github
 
@@ -41,16 +41,12 @@ In order to open the '.ipynb' file which is the jupytor notebook file, first you
 
 **For git users, please check the work flow [here](https://github.com/Analytics-at-Sauder/Workflow/blob/master/Work%20Flow.md) to upload it in a more efficient way**
 
-After you get your jupytor notebook ready, go back to the page where you downloaded the notebook. You can see the button which let you upload the file there:
+- After you get your jupytor notebook ready, go back to the page where you downloaded the notebook. You can see the button which let you upload the file there:
 
-<br/>
-<img src="image/upload_1.png">
-<br/>
+  <img src="image/upload_1.png">
 
-Then simply drag the changed file into the big box:
+- Then simply drag the changed file into the big box:
 
-<br/>
-<img src="image/upload_2.png">
-<br/>
+  <img src="image/upload_2.png">
 
-You file is now successfully uploaded to github!
+- You file is now successfully uploaded to github!
