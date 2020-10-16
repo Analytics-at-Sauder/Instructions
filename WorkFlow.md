@@ -1,13 +1,11 @@
 
 ## How to create a new project?
 
-### Step 1: Get the template
-
-Our project follows the same template where can be find at https://github.com/Analytics-at-Sauder/Analytics-at-Sauder.github.io/blob/master/rmarkdown_template.Rmd
+### Step 1: Download the [Notebook Template](https://github.com/Master-of-Business-Analytics/Notebooks_and_Data/blob/master/JupyterNotebook_Template.ipynb)
 
 Make sure that your project follows the instruction of the template so all the projects will have a similar format and will look nice and clean
 
-### Step 2 : Convert you Jupyter notebooks to Markdown and into the Website repository
+### Step 2 : Convert you Jupyter Notebooks to Markdown and into the Website repository
 
 - Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
 
@@ -21,47 +19,48 @@ Make sure that your project follows the instruction of the template so all the p
 
   ![](image/nbconvert.png)
 
-### Step 4 : Integrate the rmd with the existing project
+### Step 3: Integrate the rmd with the existing project
 
-In this step, you need to work with the newest version of the existing project. You can get it with git code here:
+- In this step, you need to work with the newest version of the existing project. You can get it with git code here:
 
-```
-git clone https://github.com/Analytics-at-Sauder/Analytics-at-Sauder.github.io.git
-```
+  ```
+  git clone https://github.com/Analytics-at-Sauder/Analytics-at-Sauder.github.io.git
+  ```
 
-(Before you use the git codes, make sure you use -pwd to check if you are at the correct working directory)
+  (Before you use the git codes, make sure you use -pwd to check if you are at the correct working directory)
 
-Then open the project file with the Rstudio.
+- Then open the project file with the Rstudio.
 
-<img src="image/project.png">
+  <img src="image/project.png">
+  <br/>
 
-After open the project, go paste your finished rmd file(which you have in step 3) into the project directory and open it again in Rstudio.
+- After open the project, go paste your finished rmd file(which you have in step 3) into the project directory and open it again in Rstudio.
 
-<img src="image/rfile.png">
+  <img src="image/rfile.png">
 
-For example, if your project is calld "p07_data_cleaning.Rmd", just open it by double clicking on it.
+  For example, if your project is calld "p07_data_cleaning.Rmd", just open it by double clicking on it.
 
 ### Step 5 : Generate the html file and build the website again
 
-You are ready to generate the website in this step! This is actually a built-in function of Rstudio, so just go ahead and click on the "Knit" button.
+- You are ready to generate the website in this step! This is actually a built-in function of Rstudio, so just go ahead and click on the "Knit" button.
 
-<img src="image/knit.png">
+  <img src="image/knit.png">
 
-You will be able to see the completed version of your html file, make sure everything works as you expected.
+  You will be able to see the completed version of your html file, make sure everything works as you expected.
 
-After confirmation, go open the "_site.yml" file that is also located within the working directory. You can also open it with visual studio.
+- After confirmation, go open the "_site.yml" file that is also located within the working directory. You can also open it with visual studio.
 
-<img src="image/yml.png">
+  <img src="image/yml.png">
 
-Edit the yml file based on your own need like this:
+- Edit the yml file based on your own need like this:
 
-<img src="image/yml_edit.png">
+  <img src="image/yml_edit.png">
 
-If your project lies under one of the existing industry, then you don't need the first two lines, just add the last two lines under the existing industry.
+  If your project lies under one of the existing industry, then you don't need the first two lines, just add the last two lines under the existing industry.
 
-Finally, rebuild the website so all web pages are connected with each other.
+- Finally, rebuild the website so all web pages are connected with each other.
 
-<img src="image/build.png">
+  <img src="image/build.png">
 
 ### Step 6 : Push the change back to online repo
 
