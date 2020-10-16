@@ -16,30 +16,38 @@ Then you will see the file browser which you will go and find out the file you w
 ## Additional help for people who are not familiar with git :Download the jupytor notebook from Github
 
 First, you will see many different project repos in the broader repository(click on the picture to open the website if you are not part of the organization yet). The content creaters put the original version of jupytor notebook in those repos.
-<br/>
+
 <br/>
 [<img src="image/sample.png">](https://github.com/Analytics-at-Sauder)
 <br/>
-<br/>
+
 Open those repos so you can download them as a zip file.
 
+<br/>
 <img src="image/download.png">
+<br/>
 
 ## Edit the content
 
 Then you can start to edit in the notebook. At the beginning you will see no place for you to edit because the text looks like this:
 
+<br/>
 <img src="image/before.png">
+<br/>
 
 Don't worry, just double click on the texts, then it will be showing up like this:
 
+<br/>
 <img src="image/after.png">
+<br/>
 
 Then feel free to edit it. After you are finished with all the contents in the cell, press "control + return" if you are using mac os system /press "control + enter" if you are using windows to end editing.
 
 When you are done with all the cells, make sure you save it before close.
 
+<br/>
 <img src="image/save.png">
+<br/>
 
 ## Upload the file
 
@@ -47,10 +55,14 @@ When you are done with all the cells, make sure you save it before close.
 
 After you get your jupytor notebook ready, go back to the page where you downloaded the notebook. You can see the button which let you upload the file there:
 
+<br/>
 <img src="image/upload_1.png">
+<br/>
 
 Then simply drag the changed file into the big box:
 
+<br/>
 <img src="image/upload_2.png">
+<br/>
 
 You file is now successfully uploaded to github!
