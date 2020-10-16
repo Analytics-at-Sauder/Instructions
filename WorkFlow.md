@@ -9,9 +9,9 @@ Make sure that your project follows the instruction of the template so all the p
 
 ### Step 2 : Download your Jupyter Notebook as a Markdown file
 
-Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
+- Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
 
-<img src="image/terminal.PNG" width="50%">
+  <img src="image/terminal.PNG">
 
 Change the working directory to the folder where your Notebook is located by typing `cd folder_name` and hitting 'Enter'. `cd` stands for 'change directory, and 'folder_name' would be different depending on where you put your Jupyter Notebook.
 
