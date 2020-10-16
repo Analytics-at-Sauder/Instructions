@@ -5,49 +5,37 @@ In order to open the '.ipynb' file which is the jupytor notebook file, first you
 
 ## Open the file
 
-After you sucessfully install the app on your device, you will find several apps available for you. What you want to open is the jupytor notebook app.
+- After you sucessfully install the app on your device, you will find several apps available for you. What you want to open is the jupytor notebook app.
 
-<br/>
-<img src="image/open_1.png">
-<br/>
+  <img src="image/open_1.png">
 
-Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
+- Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
 
 ## Additional help for people who are not familiar with git :Download the jupytor notebook from Github
 
-First, you will see many different project repos in the broader repository(click on the picture to open the website if you are not part of the organization yet). The content creaters put the original version of jupytor notebook in those repos.
+- First, you will see many different project repos in the broader repository(click on the picture to open the website if you are not part of the organization yet). The content creaters put the original version of jupytor notebook in those repos.
 
-<br/>
-<img src="image/sample.png">
-<br/>
+  <img src="image/sample.png">
 
-Open those repos so you can download them as a zip file.
+- Open those repos so you can download them as a zip file.
 
-<br/>
-<img src="image/download.png">
-<br/>
+  <img src="image/download.png">
 
 ## Edit the content
 
-Then you can start to edit in the notebook. At the beginning you will see no place for you to edit because the text looks like this:
+- Then you can start to edit in the notebook. At the beginning you will see no place for you to edit because the text looks like this:
 
-<br/>
-<img src="image/before.png">
-<br/>
+  <img src="image/before.png">
 
-Don't worry, just double click on the texts, then it will be showing up like this:
+- Don't worry, just double click on the texts, then it will be showing up like this:
 
-<br/>
-<img src="image/after.png">
-<br/>
+  <img src="image/after.png">
 
-Then feel free to edit it. After you are finished with all the contents in the cell, press "control + return" if you are using mac os system /press "control + enter" if you are using windows to end editing.
+  Then feel free to edit it. After you are finished with all the contents in the cell, press "control + return" if you are using mac os system /press "control + enter" if you are using windows to end editing.
 
-When you are done with all the cells, make sure you save it before close.
+- When you are done with all the cells, make sure you save it before close.
 
-<br/>
-<img src="image/save.png">
-<br/>
+  <img src="image/save.png">
 
 ## Upload the file
 
