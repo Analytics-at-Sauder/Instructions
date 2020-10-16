@@ -2,17 +2,19 @@
 # Jupytor Notebook Quick Guide
 
 In order to open the '.ipynb' file which is the jupytor notebook file, first you need to download the anaconda-Navigator which can be downloaded [here](https://docs.anaconda.com/anaconda/install/). Also, Anaconda provides its own version of cheat sheet so I won't spend more time working on it. The cheat sheet of basic features of anaconda navigator can be found [here](https://docs.anaconda.com/_downloads/9ee215ff15fde24bf01791d719084950/Anaconda-Starter-Guide.pdf).
-<br/>
-<br/>
+
 ## Open the file
 
 After you sucessfully install the app on your device, you will find several apps available for you. What you want to open is the jupytor notebook app.
+
 <br/>
 <br/>
 <br/>
 <img src="image/open_1.png">
 <br/>
 <br/>
+<br/>
+
 Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
 
 ## Additional help for people who are not familiar with git :Download the jupytor notebook from Github
