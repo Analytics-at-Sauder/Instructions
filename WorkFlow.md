@@ -25,7 +25,9 @@ Make sure that your project follows the instruction of the template so all the p
 
 In this step, you need to work with the newest version of the existing project. You can get it with git code here:
 
--- git clone https://github.com/Analytics-at-Sauder/Analytics-at-Sauder.github.io.git --
+```
+git clone https://github.com/Analytics-at-Sauder/Analytics-at-Sauder.github.io.git
+```
 
 (Before you use the git codes, make sure you use -pwd to check if you are at the correct working directory)
 
