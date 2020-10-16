@@ -51,7 +51,7 @@ When you are done with all the cells, make sure you save it before close.
 
 ## Upload the file
 
-### For git users, please check the work flow [here](https://github.com/Analytics-at-Sauder/Workflow/blob/master/Work%20Flow.md) to upload it in a more efficient way
+**For git users, please check the work flow [here](https://github.com/Analytics-at-Sauder/Workflow/blob/master/Work%20Flow.md) to upload it in a more efficient way**
 
 After you get your jupytor notebook ready, go back to the page where you downloaded the notebook. You can see the button which let you upload the file there:
 
