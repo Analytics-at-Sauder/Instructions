@@ -7,7 +7,7 @@ In order to open the '.ipynb' file which is the jupytor notebook file, first you
 
 After you sucessfully install the app on your device, you will find several apps available for you. What you want to open is the jupytor notebook app.
 
-<img src="image/open_1.png" style="border: 5px solid #000000">
+<img src="image/open_1.png" style="display: none">
 
 Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
 
