@@ -18,7 +18,7 @@ Then you will see the file browser which you will go and find out the file you w
 First, you will see many different project repos in the broader repository(click on the picture to open the website if you are not part of the organization yet). The content creaters put the original version of jupytor notebook in those repos.
 
 <br/>
-[<img src="image/sample.png">](https://github.com/Analytics-at-Sauder)
+<img src="image/sample.png">
 <br/>
 
 Open those repos so you can download them as a zip file.
