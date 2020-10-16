@@ -7,7 +7,7 @@ Our project follows the same template where can be find at https://github.com/An
 
 Make sure that your project follows the instruction of the template so all the projects will have a similar format and will look nice and clean
 
-### Step 2 : Download your Jupyter Notebook as a Markdown file
+### Step 2 : Convert you Jupyter notebooks to Markdown and into the Website repository
 
 - Once you finished editing you Jupyter Notebook, save it as a Markdown file using the terminal (do not do it directly within the Notebook otherwise the images would not be automatically organized in a sub-folder.
 
@@ -17,11 +17,9 @@ Make sure that your project follows the instruction of the template so all the p
 
   ![](image/change_directory.png)
 
-Save your Jupyter Notebook as a Markdown file (and put any output images in a sub-folder) by typing `jupyter nbconver --to markdown notebook_name.ipynb` and hitting 'Enter'. Again, 'notebook_name' would be different depending on how you named your Jupyter Notebook
+- Save your Jupyter Notebook as a Markdown file (and put any output images in a sub-folder) by typing `jupyter nbconver --to markdown notebook_name.ipynb` and hitting 'Enter'. Again, 'notebook_name' would be different depending on how you named your Jupyter Notebook
 
-![](image/nbconvert.png)
-
-### Step 3 : Cut and Paste the Ouputs from Step 2 into the 'Analytics-at-Sauder.github.io' directory
+  ![](image/nbconvert.png)
 
 ### Step 4 : Integrate the rmd with the existing project
 
