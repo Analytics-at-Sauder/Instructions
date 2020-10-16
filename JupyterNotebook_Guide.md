@@ -7,7 +7,7 @@ In order to open the '.ipynb' file which is the jupytor notebook file, first you
 
 After you sucessfully install the app on your device, you will find several apps available for you. What you want to open is the jupytor notebook app.
 
-<img src="image/open_1.png" style="display: none">
+<img src="image/open_1.png">
 
 Then you will see the file browser which you will go and find out the file you want to edit. It is nothing different from open a microsfot doc, just click on the jupytor notebook file and the system will open for you.
 
@@ -25,19 +25,11 @@ Open those repos so you can download them as a zip file.
 
 Then you can start to edit in the notebook. At the beginning you will see no place for you to edit because the text looks like this:
 
----
-
 <img src="image/before.png">
-
----
 
 Don't worry, just double click on the texts, then it will be showing up like this:
 
----
-
 <img src="image/after.png">
-
----
 
 Then feel free to edit it. After you are finished with all the contents in the cell, press "control + return" if you are using mac os system /press "control + enter" if you are using windows to end editing.
 
