@@ -18,6 +18,34 @@ Make sure that your project follows the instruction of the template so all the p
 - Save your Jupyter Notebook as a Markdown file (and put any output images in a sub-folder) by typing `jupyter nbconver --to markdown notebook_name.ipynb` and hitting 'Enter'. Again, 'notebook_name' would be different depending on how you named your Jupyter Notebook
 
   ![](image/nbconvert.png)
+  
+- Convert all .ipynb to .md in one go using command line
+
+    - Case 1: All notebooks are in one folder
+    
+      Let’s say this folder is named “notebooks” and is on your desktop. So its path is `~/Documents/notebooks` 
+      
+      Run the following command:
+      
+      ```shell
+      jupyter nbconvert --output-dir='~/Documents/md_files' --to markdown ~/Documents/notebooks/*.ipynb
+      ```
+      
+      `output-dir='~/Desktop/md_files’` tells nbconvert where to store the output. 
+       
+       Here, we are storing it in a folder named `md_files` on Desktop. 
+       
+       The folder `md_files` will be automatically created if it does not already exist.
+       
+       `~/Desktop/notebooks/*.ipynb` will select all files with .ipynb extension in the “notebooks” folder 
+
+## Case 2: Notebooks are in different folders
+If you have notebooks stored within folders named “project_1” and “project_2” on your desktop, this will work:
+```shell
+jupyter nbconvert --output-dir='~/Desktop/md_files' --to markdown ~/Desktop/project_*/*.ipynb
+```
+* `~/Desktop/project_*/*.ipynb` looks for all folders that start with name `project_` on your desktop, and looks for all `.ipynb` files within those folders
+
 
 ### Step 3: Integrate the rmd with the existing project
 
